@@ -2,6 +2,8 @@
 
 This repository contains Java programs focused on practicing various method concepts such as method creation, overloading, recursion, and parameter passing.  
 It's designed for hands-on learning and strengthening Java fundamentals.
+> 💡 Inspired and mentored by **The Kiran Academy (TKA)**
+
 
 ## 📁 Project Structure
 
