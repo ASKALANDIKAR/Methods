@@ -31,6 +31,15 @@ It's designed for hands-on learning and strengthening Java fundamentals.
    ```bash
    git clone https://github.com/ASKALANDIKAR/Methods.git
 
+## 👨‍💻 Author
 
+**AⓝＵј**  
+Engineering Student at SPPU University
+
+---
+
+## 📜 License
+
+This project is open source and available under the [MIT License](LICENSE).
 
 
